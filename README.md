@@ -65,12 +65,8 @@ open up you local host and port
 [dagshub](https://dagshub.com/)
 
 import dagshub
-dagshub.init(repo_owner='jbasurtod', repo_name='E2E_ml_flow_project', mlflow=True)
+dagshub.init(repo_owner='OWNER', repo_name='YOUR-REPO-NAME', mlflow=True)
 
-import mlflow
-with mlflow.start_run():
-  mlflow.log_param('parameter name', 'value')
-  mlflow.log_metric('metric name', 1)
 
 Run this to export as env variables:
 
@@ -115,7 +111,7 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/jbasurtod/E2E_ml_flow_project.mlf
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.ap-south-1.amazonaws.com/mlproj
+    - Save the URI: 
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
