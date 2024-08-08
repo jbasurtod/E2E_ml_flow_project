@@ -1,19 +1,6 @@
-# End-to-end-Machine-Learning-Project-with-MLflow
+# End-to-end Machine Learning Project with MLflow
 
-
-## Workflows
-
-1. Update config.yaml
-2. Update schema.yaml
-3. Update params.yaml
-4. Update the entity
-5. Update the configuration manager in src config
-6. Update the components
-7. Update the pipeline 
-8. Update the main.py
-9. Update the app.py
-
-
+<img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="200" > <img src="https://www.masip.es/wp-content/uploads/2020/08/aws-logo.png" width="200" >
 
 # How to run?
 ### STEPS:
@@ -72,7 +59,7 @@ Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/jbasurtod/E2E_ml_flow_project.mlflow
+export MLFLOW_TRACKING_URI=<DAGSHUB_URI>
 
 ```
 
@@ -147,11 +134,9 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/jbasurtod/E2E_ml_flow_project.mlf
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = demo>>  <URL>
 
     ECR_REPOSITORY_NAME = simple-app
-
-
 
 
 ## About MLflow 
@@ -161,3 +146,6 @@ MLflow
  - Trace all of your expriements
  - Logging & tagging your model
 
+## Special Thanks
+
+Special thanks to [entbappy](https://github.com/entbappy)
