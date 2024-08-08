@@ -1,0 +1,15 @@
+artifact_uri: file:///home/juancarlos/Documents/dev/E2E_ml_flow_project/mlruns/0/eb27bbcc4ee8468e8c4cc77fe3d98f6a/artifacts
+end_time: 1723146009454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb27bbcc4ee8468e8c4cc77fe3d98f6a
+run_name: powerful-ant-914
+run_uuid: eb27bbcc4ee8468e8c4cc77fe3d98f6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723146008391
+status: 3
+tags: []
+user_id: juancarlos

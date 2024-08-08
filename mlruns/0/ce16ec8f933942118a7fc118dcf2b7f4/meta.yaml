@@ -1,0 +1,15 @@
+artifact_uri: file:///home/juancarlos/Documents/dev/E2E_ml_flow_project/mlruns/0/ce16ec8f933942118a7fc118dcf2b7f4/artifacts
+end_time: 1723145783597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce16ec8f933942118a7fc118dcf2b7f4
+run_name: aged-wolf-529
+run_uuid: ce16ec8f933942118a7fc118dcf2b7f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723145782463
+status: 3
+tags: []
+user_id: juancarlos

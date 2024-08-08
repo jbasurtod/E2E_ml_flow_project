@@ -1,0 +1,15 @@
+artifact_uri: file:///home/juancarlos/Documents/dev/E2E_ml_flow_project/mlruns/0/bad8ae3a2f714d3aa25177433ee43ae9/artifacts
+end_time: 1723146416171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bad8ae3a2f714d3aa25177433ee43ae9
+run_name: marvelous-shrimp-55
+run_uuid: bad8ae3a2f714d3aa25177433ee43ae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723146415054
+status: 3
+tags: []
+user_id: juancarlos

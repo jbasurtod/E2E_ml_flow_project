@@ -1,0 +1,15 @@
+artifact_uri: file:///home/juancarlos/Documents/dev/E2E_ml_flow_project/mlruns/0/49ed03ab709b46b0b832f64d11a8f659/artifacts
+end_time: 1723145730127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49ed03ab709b46b0b832f64d11a8f659
+run_name: resilient-panda-393
+run_uuid: 49ed03ab709b46b0b832f64d11a8f659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723145728968
+status: 3
+tags: []
+user_id: juancarlos
