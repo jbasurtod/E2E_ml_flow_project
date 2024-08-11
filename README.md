@@ -33,10 +33,8 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Now,
-```bash
-open up you local host and port
-```
+Now, open up you local host and port
+
 
 
 
