@@ -9,7 +9,7 @@ __version__ = "0.0.0"
 REPO_NAME = "E2E_ml_flow_project"
 AUTHOR_USER_NAME = "jbasurtod"
 SRC_REPO = "myMLproject"
-AUTHOR_EMAIL = "jbasurtod@gmail.com"
+AUTHOR_EMAIL = "jbasurtod@mail.com"
 
 
 setuptools.setup(
